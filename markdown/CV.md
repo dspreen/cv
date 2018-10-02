@@ -17,7 +17,7 @@ jobtitle: Doctoral Candidate, Department of History, University of Michigan
 linkcolor: black
 fontawesome: yes
 phone: +1 (773) 678-8187
-address: 1029 Tisch Hall · 435 S. State St · Ann Arbor, MI 48109
+address: 1029 Tisch Hall · 435 S. State St. · Ann Arbor, MI 48109
 updated: yes
 urlcolor: black
 web: davidspreen.com
