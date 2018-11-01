@@ -8,6 +8,8 @@
 
 `2018` “No Retreat to ‘Single-Issue’ Politics: West German Maoists and the Zimbabwe African National Union,” Social Movements after 1968, Rutgers University, New Brunswick (November 7-9)
 
+`2018` “Prospectors of Everyday Life? European Maoists and the Search for the Life of the Masses in the People’s Republic of China,” Eisenberg Institute for Historical Studies Friday Workshop: The Boundaries of Everyday Life, Eisenberg Institute for Historical Studies, University of Michigan, Ann Arbor (October 26th)
+
 `2018` “Decolonizing the West German 1968: Maoism, ‘Foreign Extremism,’ and Political Violence in the Global Seventies,” 42nd Annual Conference of the German Studies Association, Atlanta (September 28-30)
 
 `2018` “In the Shadow of Ostpolitik: Mao’s China, West German Conservatives, and the Far Left in the Global Seventies,” Berlin Program for Advanced German & European Studies Summer Workshop, Berlin (June 27-29)
