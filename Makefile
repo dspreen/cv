@@ -20,9 +20,9 @@ MEXT = md
 SDIR = markdown/
 
 ## All markdown files in the working directory
-PDFSRC = $(SDIR)/CV.md $(SDIR)/Education.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md $(SDIR)/DepartmentalUniversity\ Service.md $(SDIR)/Languages.md $(SDIR)/References.md
+PDFSRC = $(SDIR)/CV.md $(SDIR)/Education.md $(SDIR)/Employment.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md $(SDIR)/DepartmentalUniversity\ Service.md $(SDIR)/Technical\ Skills.md $(SDIR)/Languages.md $(SDIR)/References.md
 
-HTMLSRC = $(SDIR)/Education.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md
+HTMLSRC = $(SDIR)/Education.md $(SDIR)/Employment.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md $(SDIR)/Technical\ Skills.md
 
 
 all:	clean html pdf

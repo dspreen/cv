@@ -2,9 +2,17 @@
 
 **Panels Organized**
 
-`2017` “Africa and German Communisms in the Cold War,” 41st Annual Conference of the German Studies Association, Atlanta (October 5-8)
+`2019` With Kathryn White, “East and West Germans’ Transnational Trajectories and Alternative Solidarities,” 43rd Annual Conference of the German Studies Association, Portland (October 3-6)
+
+`2017` With Johanna Folland, “Africa and German Communisms in the Cold War,” 41st Annual Conference of the German Studies Association, Atlanta (October 5-8)
 
 **Papers Presented**
+
+`2019` “From Bochum to Albania and Around the World: West Germans and the Production of Radio Tirana,” 43rd Annual Conference of the German Studies Association, Portland (October 3-6)
+
+`2019` “Making European Solidarities: Spaces of Maoist Internationalism in the Global Seventies,” Beyond Transnationalism: Mapping the Spatial Contours of Political Activism in Europe’s Long 1970s (July 11-12)
+
+`2019` “Class War with a Map: Anti-Capitalism and Space,” The Legacy of Moishe Postone, University of Chicago, Chicago (February 15-16)
 
 `2018` “No Retreat to ‘Single-Issue’ Politics: West German Maoists and the Zimbabwe African National Union,” Social Movements after 1968, Rutgers University, New Brunswick (November 7-9)
 
@@ -49,4 +57,4 @@ Left in Divided Germany,” German Historical Institute Transatlantic Doctoral S
 
 **Discussant**
 
-`2018` “Panel 2,” German Historical Institute Transatlantic Doctoral Seminar, Berkeley (May 30-June 3)
+`2018` “East Germany,” The German Historical Institute’s Transatlantic Doctoral Seminar, Berkeley (May 30-June 3)

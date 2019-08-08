@@ -2,8 +2,8 @@
 
 `2019` Ph.D., Department of History, University of Michigan
 
-> Dissertation: “Cold War Imaginaries: Mao’s China and the Making of a Postcolonial Far 
-> Left in Divided Germany”
+> Dissertation: “Dear Comrade Mugabe: Decolonization and Radical
+> Protest in Divided Germany, 1960-1980”
 
 > Exam Fields: Modern European History; Modern German History; 
 > Intellectual History: Theorizing the Globe; Methods in the Social Sciences
