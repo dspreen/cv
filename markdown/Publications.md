@@ -11,3 +11,8 @@
 `2014` Review of “Between Dictatorship and Dissent: Ideology, Legitimacy, and Human Rights in East Germany, 1945-1990,” by Ned Richardson-Little,
 *Dissertation Reviews*, November 6, <http://dissertationreviews.org/archives/10364>
 
+**Article and Chapter Manuscripts in Preparation**
+
+`2019` “Making European Solidarities: Spaces of Maoist Internationalism in the Global Seventies”
+
+`2019` “Radical Protest or Shadow Diplomacy? West German Maoists and the Zimbabwe African National Union”
