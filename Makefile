@@ -36,9 +36,5 @@ results/dspreen-CV.html: $(HTMLSRC)
 results/dspreen-CV.pdf: $(PDFSRC)
 	pandoc --template templates/svm-latex-cv.tex -o results/dspreen-CV.pdf --pdf-engine=xelatex $(PDFSRC)
 
-upload:
-	git commit -a -m ${MSG}
-	git push
-
 clean:
 	rm -f results/*.html results/*.docx results/*.pdf
