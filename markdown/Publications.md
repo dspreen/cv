@@ -2,7 +2,7 @@
 
 **Book and Conference Reviews**
 
-`2019` Review of *Mao Zedong. “Es Wird Kampf Geben”: Eine Biografie*, by Helwig Schmidt-Glintzer. *Arbeit, Bewegung, Geschichte: Zeitschrift für Historische Studien* (Forthcoming September)
+`2019` Review of *Mao Zedong. “Es Wird Kampf Geben”: Eine Biografie*, by Helwig Schmidt-Glintzer. *Arbeit, Bewegung, Geschichte: Zeitschrift für Historische Studien* 18:3
 
 `2017` Conference Report: “Transatlantic Summer School: A Century of Communism, 17.07.2017 - 21.07.2017,” *H-Soz-Kult*, October 10, <http://www.hsozkult.de/conferencereport/id/tagungsberichte-7351>
 
