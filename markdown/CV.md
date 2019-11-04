@@ -12,12 +12,12 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-jobtitle: Postdoctoral Fellow, Berlin Program for Advanced German and European Studies, Free University of Berlin
+jobtitle: Postdoctoral Fellow, Berlin Program for Advanced German and European Studies
 #keywords: R Markdown, academic CV, template
 linkcolor: black
 fontawesome: yes
 phone: +1 (773) 678-8187
-address: Ehrenbergstr. 24/26 · 14195 Berlin · Germany
+address: Free University of Berlin · Ehrenbergstr. 24/26 · 14195 Berlin · Germany
 updated: yes
 urlcolor: black
 web: davidspreen.com
