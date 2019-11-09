@@ -1,4 +1,6 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\usepackage[breaklinks=true]{hyperref}
+\def\UrlBreaks{\do\/\do-}
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
 $else$
