@@ -17,7 +17,7 @@ jobtitle: Postdoctoral Fellow, Berlin Program for Advanced German and European S
 linkcolor: black
 fontawesome: yes
 phone: +1 (773) 678-8187
-address: Free University of Berlin · Ehrenbergstr. 24/26 · 14195 Berlin · Germany
+address: Freie Universität Berlin · Ehrenbergstr. 24/26 · 14195 Berlin · Germany
 updated: yes
 urlcolor: black
 web: davidspreen.com
