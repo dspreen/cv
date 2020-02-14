@@ -13,6 +13,7 @@
 
 **Article and Chapter Manuscripts in Preparation**
 
-`2019` “Making European Solidarities: Spaces of Maoist Internationalism in the Global Seventies”
+`2020` “Radical Protest or Shadow Diplomacy? West German Maoists and the Zimbabwe African National Union” (submitted: for edited volume *Social Movements after 1968*)
 
-`2019` “Radical Protest or Shadow Diplomacy? West German Maoists and the Zimbabwe African National Union”
+`2019` “Making European Solidarities: Spaces of Maoist Internationalism in the Global Seventies” (in preparation: for special issue of *Review of European History*)
+
