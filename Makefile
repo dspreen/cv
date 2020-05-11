@@ -20,9 +20,9 @@ MEXT = md
 SDIR = markdown/
 
 ## All markdown files in the working directory
-PDFSRC = $(SDIR)/CV.md $(SDIR)/Education.md $(SDIR)/Employment.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md $(SDIR)/DepartmentalUniversity\ Service.md $(SDIR)/Technical\ Skills.md $(SDIR)/Languages.md $(SDIR)/References.md
+PDFSRC = $(SDIR)/1-CV.md $(SDIR)/2-Education.md $(SDIR)/3a-Employment.md $(SDIR)/4-Publications.md $(SDIR)/5-Grants\ and\ Fellowships.md $(SDIR)/6-Conference\ Participation.md $(SDIR)/7-Teaching\ Experience.md $(SDIR)/8-Media\ Coverage.md $(SDIR)/9-DepartmentalUniversity\ Service.md $(SDIR)/10-Languages.md $(SDIR)/11-Technical\ Skills.md $(SDIR)/13-References.md
 
-HTMLSRC = $(SDIR)/Education.md $(SDIR)/Employment-html.md $(SDIR)/Publications.md $(SDIR)/Grants\ and\ Fellowships.md $(SDIR)/Conference\ Participation.md $(SDIR)/Teaching\ Experience.md $(SDIR)/Media\ Coverage.md $(SDIR)/Technical\ Skills.md
+HTMLSRC = $(SDIR)/2-Education.md $(SDIR)/3b-Employment-html.md $(SDIR)/4-Publications.md $(SDIR)/5-Grants\ and\ Fellowships.md $(SDIR)/6-Conference\ Participation.md $(SDIR)/7-Teaching\ Experience.md $(SDIR)/8-Media\ Coverage.md $(SDIR)/10-Languages.md $(SDIR)/11-Technical\ Skills.md
 
 
 all:	clean html pdf

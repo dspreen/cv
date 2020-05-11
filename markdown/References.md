@@ -1,3 +1,0 @@
-### REFERENCES
-
-Available upon request
