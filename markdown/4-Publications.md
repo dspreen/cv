@@ -2,6 +2,8 @@
 
 **Book and Conference Reviews**
 
+`2020` Review of *What Remains: Everyday Encounters with the Socialist Past in Germany*, by Jonathan P. G. Bach. *H-Socialisms*, August, <https://www.h-net.org/reviews/showpdf.php?id=52342>
+
 `2020` Review of *Internationale Solidarität: globales Engagement in der Bundesrepublik und der DDR*, edited by Frank Bösch, Caroline Moine, and Stefanie Senger. *German History*, June 13, <https://doi.org/10.1093/gerhis/ghaa040>
 
 `2019` Review of *Mao Zedong. “Es Wird Kampf Geben”: Eine Biografie*, by Helwig Schmidt-Glintzer. *Arbeit, Bewegung, Geschichte: Zeitschrift für Historische Studien* 18:3
