@@ -1,13 +1,5 @@
 ### CONFERENCE PARTICIPATION
 
-**Panels Organized**
-
-`2020` With Lauren Stokes, "Stasi Surveillance and Race in the Global Cold War," 44th Annual Conference of the German Studies Association, Washington DC (October 1-4)
-
-`2019` With Katharine White, “East and West Germans’ Transnational Trajectories and Alternative Solidarities,” 43rd Annual Conference of the German Studies Association, Portland (October 3-6)
-
-`2017` With Johanna Folland, “Africa and German Communisms in the Cold War,” 41st Annual Conference of the German Studies Association, Atlanta (October 5-8)
-
 **Papers Presented**
 
 `2020` "Iranian Students and the MfS: Political-Ideological Diversion, Decolonization, and the Global Cold War," 44th Annual Conference of the German Studies Association, Washington DC (October 1-4)
@@ -61,6 +53,12 @@ Left in Divided Germany,” German Historical Institute Transatlantic Doctoral S
 
 **Discussant**
 
-`2020` "Socialist Internationalism beyond Legitimacy: Affect, Cosmopolitanism, and Decolonization in the German Democratic Republic," 52nd Annual ASEEES Convention, Washington DC (November 5-8)
-
 `2018` “East Germany,” The German Historical Institute’s Transatlantic Doctoral Seminar, Berkeley (May 30-June 3)
+
+**Panels Organized**
+
+`2020` With Lauren Stokes, "Stasi Surveillance and Race in the Global Cold War," 44th Annual Conference of the German Studies Association, Washington DC (October 1-4)
+
+`2019` With Katharine White, “East and West Germans’ Transnational Trajectories and Alternative Solidarities,” 43rd Annual Conference of the German Studies Association, Portland (October 3-6)
+
+`2017` With Johanna Folland, “Africa and German Communisms in the Cold War,” 41st Annual Conference of the German Studies Association, Atlanta (October 5-8)
