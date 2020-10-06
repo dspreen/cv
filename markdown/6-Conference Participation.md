@@ -62,3 +62,4 @@ Left in Divided Germany,” German Historical Institute Transatlantic Doctoral S
 `2019` With Katharine White, “East and West Germans’ Transnational Trajectories and Alternative Solidarities,” 43rd Annual Conference of the German Studies Association, Portland (October 3-6)
 
 `2017` With Johanna Folland, “Africa and German Communisms in the Cold War,” 41st Annual Conference of the German Studies Association, Atlanta (October 5-8)
+
